@@ -115,3 +115,9 @@ hr {
   margin: 20px 0;
   color: #686c70;
 }
+
+.incomplete li {
+  list-style: none;
+  margin: 15px 0;
+  padding: 0 15px;
+}
